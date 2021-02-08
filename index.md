@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "Workshop on Search-Oriented Conversational AI<br /> Online, 8 October 2021"
+excerpt: "Online Event<br />8 October 2021"
 layout: single
 classes: wide
 header:

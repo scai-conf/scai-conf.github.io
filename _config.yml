@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Search-Oriented Conversational AI"
 title_separator          : "–"
 name                     : "SCAI organisers"
 description              : "Workshop on Search-Oriented Conversational AI."
