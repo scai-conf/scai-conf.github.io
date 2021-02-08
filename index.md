@@ -13,7 +13,7 @@ header:
 
 ### Workshop overview:
 
-This workshop is intended as a **discussion platform on the status and the future of Conversational AI for intelligent information access (information-seeking dialogue)**. Among other topics, we will discuss design, evaluation and human factors. The workshop will also feature a shared task on Conversational Question Answering.
+This workshop is intended as a **discussion platform on the status and the future of Conversational AI for intelligent information access**. Among other topics, we will discuss design, evaluation and human factors in relation to the task of automating the process of information-seeking dialogue. The workshop will also feature a shared task on Conversational Question Answering.
 
 ### Important Dates:
 
