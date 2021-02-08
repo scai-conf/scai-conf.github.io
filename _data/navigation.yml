@@ -1,11 +1,11 @@
-main:
-  - title: "Programme"
-    url: /programme/
-  - title: "Accepted Papers"
-    url: /accepted-papers/
-  - title: "Committees"
-    url: /organisation/
-  - title: "Contact"
-    url: /contact/
-  - title: "INLG 2020"
-    url: https://www.inlg2020.org/
+# main:
+#   - title: "Programme"
+#     url: /programme/
+#   - title: "Accepted Papers"
+#     url: /accepted-papers/
+#   - title: "Committees"
+#     url: /organisation/
+#   - title: "Contact"
+#     url: /contact/
+#   - title: "INLG 2020"
+#     url: https://www.inlg2020.org/
