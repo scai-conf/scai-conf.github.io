@@ -1,13 +1,13 @@
 ---
 layout: splash
 permalink: /
-excerpt: "Workshop on Search-Oriented Conversational AI<br /> Online, 18 December 2021"
+excerpt: "Workshop on Search-Oriented Conversational AI<br /> Online, 8 October 2021"
 layout: single
 classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/dublinbridge.jpg
+  overlay_image: /assets/images/bc.png
 ---
 
 
