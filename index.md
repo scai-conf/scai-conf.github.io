@@ -35,14 +35,15 @@ TBD
 
 * Svitlana Vakulenko, University of Amsterdam
 * Ondrej Dusek, Charles University
-* Heloisa Candello, IBM Research
+* Leigh Clark, Swansea University
 
 
 ### Steering Committee:
 
 * Julia Kiseleva, Microsoft Research
-* Jeff Dalton, University of Glasgow
+<!-- * Jeff Dalton, University of Glasgow -->
 * Aleksandr Chuklin, Google Research
 * Mikhail Burtsev, DeepPavlov & MIPT
-* Mohammad Aliannejadi, University of Amsterdam
-* Maarten de Rijke, ICAI & University of Amsterdam
+<!-- * Mohammad Aliannejadi, University of Amsterdam -->
+<!-- * Maarten de Rijke, ICAI & University of Amsterdam -->
+* Heloisa Candello, IBM Research
