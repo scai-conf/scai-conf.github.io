@@ -22,7 +22,9 @@ The workshop is organized as an online event, with free participation.
 
 ### Submission
 
-We invite submission of presentations for previously papers accepted to conferences or journals in the last 2 years, relevant to the topic of the workshop (see topics of interest below). The submission involves either a link to the published paper version, or a PDF if the paper isn’t online yet or is not open-access. The workshop organizers will select papers for presentation mainly based on their relevance to the workshop topic.
+We invite submission of presentations for previously papers accepted to conferences or journals in the last 2 years, relevant to the following topics: (1) theoretical foundations for automating information-seeking dialogues and its relation to the concurrent research directions in dialogue systems and conversational user interfaces, and (2) evaluation of conversational search systems including wizard-of-oz experiments, user studies, conversational question answering, response generation and summarization.
+
+The submission involves either a link to the published paper version, or a PDF if the paper isn’t online yet or is not open-access. The workshop organizers will select papers for presentation mainly based on their relevance to the workshop topic.
 
 ### Important Dates:
 
