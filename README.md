@@ -1,6 +1,6 @@
 Homepage for the Workshop on Search-Oriented Conversational AI 
 
-Webpage: http://scai-conf.github.io/
+Webpage: https://scai.info and http://scai-conf.github.io/
 
 ### Credits
 
