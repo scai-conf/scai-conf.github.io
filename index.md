@@ -15,9 +15,12 @@ header:
 
 This workshop is intended as a **discussion platform on Conversational AI for intelligent information access**, bringing together researchers and practitioners across natural language processing, information retrieval, machine learning and human-computer interaction fields. Among other topics, we will discuss design, evaluation and human factors in relation to automating information-seeking dialogues. The workshop will also feature a shared task on Conversational Question Answering.
 
-While this is a 6th iteration of SCAI, this year, the workshop will try to focus mainly on the discussion between researchers from different fields. It is therefore organized as a strictly non-archival venue, as an opportunity to present papers accepted to other venues in an interdisciplinary meeting specifically focused on search-based conversational AI.
+SCAI is already an established venue with a long-standing tradition of building bridges and integrating expertise from diverse research communities. It was previously organised in the context of ICTIR 2017, EMNLP 2018, TheWebConf 2019, IJCAI 2019 and EMNLP 2020. To access the materials of the previous five editions of SCAI follow to https://scai-workshop.github.io
+
+While this is a 6th iteration of SCAI, this year, the workshop will focus on the discussion between researchers from different fields. It is therefore organized as a strictly non-archival venue, as an opportunity to present papers accepted to other venues in an interdisciplinary meeting specifically focused on search-based conversational AI.
 
 The workshop is organized as an online event, with free participation.
+
 
 
 ### Submission
