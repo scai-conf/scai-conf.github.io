@@ -47,18 +47,23 @@ TBD -->
 
 ### Organisers:
 
-* Svitlana Vakulenko, University of Amsterdam
-* Ondrej Dusek, Charles University
 * Leigh Clark, Swansea University
+* Ondrej Dusek, Charles University
+* Svitlana Vakulenko, University of Amsterdam
 
 ### Shared Task Organisers:
 
-* Svitlana Vakulenko, University of Amsterdam
 * Johannes Kiesel, Bauhaus-Universität Weimar
+* Svitlana Vakulenko, University of Amsterdam
 
 ### Steering Committee:
 
-* Julia Kiseleva, Microsoft Research
-* Aleksandr Chuklin, Google Research
 * Mikhail Burtsev, DeepPavlov & MIPT
 * Heloisa Candello, IBM Research
+* Aleksandr Chuklin, Google Research
+* Milica Gasic, Heinrich-Heine-Universität Düsseldorf
+* Julia Kiseleva, Microsoft Research
+* Ahmet Baki Kocaballi, University of Technology Sydney
+* Minha Lee, Eindhoven University of Technology
+* Verena Rieser, Heriot-Watt University
+* Marylin Walker, University of California, Santa Cruz
