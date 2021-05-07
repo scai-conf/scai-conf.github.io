@@ -66,4 +66,4 @@ TBD -->
 * Ahmet Baki Kocaballi, University of Technology Sydney
 * Minha Lee, Eindhoven University of Technology
 * Verena Rieser, Heriot-Watt University
-* Marylin Walker, University of California, Santa Cruz
+* Marilyn Walker, University of California, Santa Cruz
