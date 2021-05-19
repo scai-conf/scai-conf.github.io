@@ -53,6 +53,7 @@ TBD -->
 
 ### Shared Task Organisers:
 
+* Maik Fröbe, Martin Luther University of Halle-Wittenberg
 * Johannes Kiesel, Bauhaus-Universität Weimar
 * Svitlana Vakulenko, University of Amsterdam
 
