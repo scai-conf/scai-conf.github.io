@@ -19,6 +19,11 @@ The challenge is based on the <a href="https://arxiv.org/abs/2010.04898">QReCC d
 ### Leaderboard
 
 The challenge is hosted on <a href="https://www.tira.io/task/scai-qrecc/dataset/scai-qrecc21-test-dataset-2021-05-15">TIRA</a>. Participants are encouraged to upload their code and run the evaluation on the VMs provided by the platform to ensure reproducibility of the results. It is also possible to upload the submission as a single JSON file as an alternative. See our <a href="https://github.com/scai-conf/SCAI-QReCC-21/tree/main/code/simple-baseline">GitHub repository</a> for further instructions and a sample code used for the baseline submission.
-<!-- ### Submission -->
 
-<!-- ### Evaluation metrics -->
+The evaluation is performed on the test split of the QReCC dataset. We use the ground truth annotations in the initial phase, and will update them with alternative answer spans and passages by pooling and crowdsourcing the relevance judgements over the results submitted by the challenge participants (similar to the TREC evaluation setup).
+
+### Schedule
+
+* Submission deadline: September 8, 2021
+* Results announcement: September 30, 2021
+* Workshop presentations: October 8, 2021
