@@ -14,7 +14,7 @@ Conversational Question Answering (QA) is one of the core applications for retri
 
 ### QReCC dataset
 
-The challenge is based on the <a href="https://arxiv.org/abs/2010.04898">QReCC dataset</a> introduced at NAACL'21. The dataset contains 14K conversations with 81K question-answer pairs and is <a href="https://github.com/apple/ml-qrecc">publicly available</a>. The document collection with the pre-processed passages should be downloaded from <a href=https://doi.org/10.5281/zenodo.4748782>Zenodo</a>.
+The challenge is based on the <a href="https://arxiv.org/abs/2010.04898">QReCC dataset</a> introduced at NAACL'21. The dataset contains 14K conversations with 81K question-answer pairs and is <a href="https://github.com/apple/ml-qrecc">publicly available</a>. The document collection with the pre-processed passages should be downloaded from <a href="https://doi.org/10.5281/zenodo.4748782">Zenodo</a>.
 
 ### Leaderboard
 
