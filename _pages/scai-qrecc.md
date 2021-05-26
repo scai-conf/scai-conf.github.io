@@ -1,5 +1,5 @@
 ---
-title: "SCAI QReCC Shared task"
+title: "SCAI QReCC Shared Task"
 permalink: /scai-qrecc/
 layout: single
 classes: wide
