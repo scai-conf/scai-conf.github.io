@@ -63,8 +63,11 @@ TBD -->
 * Heloisa Candello, IBM Research
 * Aleksandr Chuklin, Google Research
 * Milica Gasic, Heinrich-Heine-Universität Düsseldorf
+* Evangelos Kanoulas, University of Amsterdam
 * Julia Kiseleva, Microsoft Research
 * Ahmet Baki Kocaballi, University of Technology Sydney
 * Minha Lee, Eindhoven University of Technology
+* Martin Porcheron, Swansea University
 * Verena Rieser, Heriot-Watt University
+* Stefan Ultes, Mercedes-Benz Research
 * Marilyn Walker, University of California, Santa Cruz
