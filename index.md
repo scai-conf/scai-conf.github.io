@@ -71,3 +71,9 @@ TBD -->
 * Verena Rieser, Heriot-Watt University
 * Stefan Ultes, Mercedes-Benz Research
 * Marilyn Walker, University of California, Santa Cruz
+
+### Sponsors:
+
+![Google](/assets/images/google.png)
+
+
