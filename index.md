@@ -74,7 +74,7 @@ TBD -->
 
 ### Sponsors:
 
-<img src="/assets/images/google.png" alt="Google" width="100"/>
+<img src="/assets/images/google.png" alt="Google" width="500"/>
 
 
 
