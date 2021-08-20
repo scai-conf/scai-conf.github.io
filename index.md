@@ -29,20 +29,17 @@ We invite presentations of papers that were previously accepted to conferences o
 
 The submission involves either a link to the published paper version, or a PDF if the paper isn’t online yet or is not open-access. The workshop organizers will select papers for presentation mainly based on their relevance to the workshop topic.
 
-### Important Dates:
-
-* Application deadline: TBD
-* Poster deadline: TBD
-* Workshop: October 8, 2021
-
 
 ### Present Your Work:
 
 To present your published/accepted or on-going project as a poster or a lightening talk fill out this form: <https://forms.gle/CSCch2FBRT9V84gA8> ! 
 
-### Shared Task:
 
-TBD
+### Important Dates:
+
+* Application deadline: TBD
+* Poster deadline: TBD
+* Workshop: October 8, 2021
 
 
 ### Organisers:
