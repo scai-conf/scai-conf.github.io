@@ -34,7 +34,7 @@ The submission involves either a link to the published paper version, or a PDF i
 
 ### Present Your Work:
 
-To present your published/accepted or on-going project as a poster or a lightening talk [fill out this form!](https://forms.gle/CSCch2FBRT9V84gA8) 
+To present your published/accepted or an on-going project [fill out this form!](https://forms.gle/CSCch2FBRT9V84gA8) 
 
 
 ### Important Dates:
