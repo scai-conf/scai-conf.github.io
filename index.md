@@ -22,6 +22,8 @@ While this is a 6th iteration of SCAI, this year, the workshop will focus on the
 The workshop is organized as an online event, with free participation.
 
 
+[Register now!](https://www.eventbrite.com/e/scai21-tickets-167871384831)
+
 
 ### Submission
 
@@ -32,7 +34,7 @@ The submission involves either a link to the published paper version, or a PDF i
 
 ### Present Your Work:
 
-To present your published/accepted or on-going project as a poster or a lightening talk fill out this form: <https://forms.gle/CSCch2FBRT9V84gA8> ! 
+To present your published/accepted or on-going project as a poster or a lightening talk [fill out this form!](https://forms.gle/CSCch2FBRT9V84gA8) 
 
 
 ### Important Dates:
