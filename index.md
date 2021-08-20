@@ -37,8 +37,8 @@ To present your published/accepted or on-going project as a poster or a lighteni
 
 ### Important Dates:
 
-* Application deadline: TBD
-* Poster deadline: TBD
+* Application deadline: September 8, 2021
+* Poster deadline: September 18, 2021
 * Workshop: October 8, 2021
 
 
