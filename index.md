@@ -36,13 +36,13 @@ The submission involves either a link to the published paper version, or a PDF i
 * Workshop: October 8, 2021
 
 
-<!-- ### Present Your Work:
+### Present Your Work:
 
-TBD 
+To present your published/accepted or on-going project as a poster or a lightening talk fill out this form: <https://forms.gle/CSCch2FBRT9V84gA8> ! 
 
 ### Shared Task:
 
-TBD -->
+TBD
 
 
 ### Organisers:
