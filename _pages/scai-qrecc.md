@@ -1,4 +1,4 @@
----
+    ---
 title: "SCAI QReCC Shared Task"
 permalink: /scai-qrecc/
 layout: single
@@ -24,7 +24,7 @@ The evaluation is performed on the test split of the QReCC dataset. We use the g
 
 ### Schedule
 
-* Submission deadline: September 8, 2021
+* Submission deadline: <s>September 8, 2021</s> <b>Extended:</b> September 15, 2021
 * Results announcement: September 30, 2021
 * Workshop presentations: October 8, 2021
 
