@@ -39,10 +39,9 @@ To present your published/accepted or an on-going project [fill out this form!](
 
 ### Important Dates:
 
-* Application deadline: September 8, 2021
-* Poster deadline: September 18, 2021
+* Application deadline: September 28, 2021
+* Poster deadline: October 1, 2021
 * Workshop: October 8, 2021
-
 
 ### Organisers:
 
