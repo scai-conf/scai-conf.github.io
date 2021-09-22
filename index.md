@@ -57,7 +57,7 @@ To present your published/accepted or an on-going project [fill out this form!](
 
 ### Steering Committee:
 
-* Mikhail Burtsev, DeepPavlov & MIPT
+* Mikhail Burtsev,  MIPT & DeepPavlov
 * Heloisa Candello, IBM Research
 * Aleksandr Chuklin, Google Research
 * Milica Gasic, Heinrich-Heine-Universität Düsseldorf
@@ -66,9 +66,9 @@ To present your published/accepted or an on-going project [fill out this form!](
 * Ahmet Baki Kocaballi, University of Technology Sydney
 * Minha Lee, Eindhoven University of Technology
 * Martin Porcheron, Swansea University
-* Verena Rieser, Heriot-Watt University
+* Verena Rieser, Heriot-Watt University & ALANA AI
 * Stefan Ultes, Mercedes-Benz Research
-* Marilyn Walker, University of California, Santa Cruz
+* Marilyn Walker, University of California Santa Cruz
 
 ### Sponsors:
 
