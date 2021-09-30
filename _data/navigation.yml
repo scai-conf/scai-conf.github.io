@@ -1,7 +1,5 @@
 main:
+  - title: "Program"
+    url: /program/
   - title: "SCAI QReCC Shared task"
     url: /scai-qrecc/
-#   - title: "Accepted Papers"
-#     url: /accepted-papers/
-#   - title: "Programme"
-#     url: /programme/
