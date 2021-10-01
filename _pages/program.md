@@ -1,6 +1,7 @@
 ---
 title: "Program"
 permalink: /program/
+excerpt: "Online Event<br />8 October 2021"
 layout: single
 classes: wide
 header:
@@ -9,7 +10,7 @@ header:
   overlay_image: /assets/images/bc.png
 ---
 
-### Opening notes (09:45-10:00 CET)
+### Opening (09:45-10:00 CET)
 
 
 ### Conversational Search Evaluation Session (10:00-10:50 CET)
