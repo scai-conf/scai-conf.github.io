@@ -45,4 +45,13 @@ header:
 * Sergey Volokhin (Emory University)   <a href="https://aclanthology.org/2021.naacl-main.246.pdf">You Sound Like Someone Who Watches Drama Movies: Towards Predicting Movie Preferences from Conversational Interactions</a>   <b>NAACL 21</b>
 
 
-### SCAI-QReCC Shared Task on Conversational QA (15:00-16:00 CET)
+### Question Answering Evaluation Session (15:00-15:50 CET)
+
+* Abhilasha Ravichander (Carnegie Mellon University)   <a href="https://arxiv.org/pdf/2102.08345.pdf">NoiseQA: Challenge Set Evaluation for User-Centric Question Answering</a>   <b>EACL 21</b>
+
+* Linqing Liu (University College London)   <a href="https://arxiv.org/pdf/2109.01156.pdf">Challenges in Generalization in Open Domain Question Answering</a>
+
+* Jifan Chen (University of Texas at Austin)   <a href="https://arxiv.org/pdf/2104.08731.pdf">Can NLI Models Verify QA Systems’ Predictions?</a>   <b>EMNLP 21</b>
+
+
+### SCAI-QReCC Shared Task on Conversational QA (16:00-17:00 CET)
