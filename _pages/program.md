@@ -26,7 +26,7 @@ header:
 
 ### User Satisfaction & Dialogue Breakdown Session (11:00-11:50 CET)
 
-* Zhang Shuo (Bloomberg)   <a href="https://arxiv.org/pdf/2105.03748.pdf">Simulating User Satisfaction for the Evaluation of Task-oriented Dialogue Systems</a>   <b>SIGIR 21</b>
+* Shuo Zhang (Bloomberg)   <a href="https://arxiv.org/pdf/2105.03748.pdf">Simulating User Satisfaction for the Evaluation of Task-oriented Dialogue Systems</a>   <b>SIGIR 21</b>
 
 * Leon-Paul Schaub (Universite Paris-Saclay)   <a href="https://hal.archives-ouvertes.fr/hal-03265892/document">Defining And Detecting Inconsistent System Behavior in Task-oriented Dialogues</a>   <b>TALN 21</b>
 
