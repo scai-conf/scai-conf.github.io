@@ -1,7 +1,7 @@
 ---
 title: "Program"
 permalink: /program/
-excerpt: "Online Event<br /> 8 October 2021"
+excerpt: "Online Event <br />8 October 2021"
 layout: single
 classes: wide
 header:
