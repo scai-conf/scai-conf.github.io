@@ -72,5 +72,6 @@ To present your published/accepted or an on-going project [fill out this form!](
 
 ### Sponsors:
 
+<img src="/assets/images/bloomberg.png" alt="Bloomberg" width="500"/>  
 <img src="/assets/images/google.png" alt="Google" width="500"/>  
 <img src="/assets/images/huggingface.png" alt="HuggingFace" width="300"/>
