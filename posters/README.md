@@ -7,7 +7,7 @@
 * Anna Liednikova [Gathering Information and Engaging the User ComBot: A Task-Based, Serendipitous Dialog Model for Patient-Doctor Interactions](https://aclanthology.org/2021.nlpmc-1.3.pdf)    NLPMC 21
 * Abhishek Kaushik    [A Conceptual Framework for Implicit Evaluation of Conversational Search Interfaces](https://micros2021.github.io/pubs/Kaushik_MICROS2021.pdf)  MICROS 21
 * Gustavo Penha   [On the Calibration and Uncertainty of Neural Learning to Rank Models for Conversational Search](https://aclanthology.org/2021.eacl-main.12.pdf)  EACL 21
-* Vahid Sadiri Javadi Generating Opinionated Sales Negotiations
+* Vahid Sadiri Javadi [Generating Opinionated Sales Negotiations](https://caisa-lab.github.io/members/vahid-javadi.html)
 * Christian Geishauser    [What Does The User Want? Information Gain for Hierarchical Dialogue Policy Optimization](https://arxiv.org/pdf/2109.07129.pdf) ASRU 21
 
 

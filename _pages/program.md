@@ -33,7 +33,7 @@ header:
 * Katsuhide Fujita (Tokyo University of Agriculture and Technology)   <a href="https://aclanthology.org/2021.eacl-main.63.pdf">Dialogue Act-based Breakdown Detection in Negotiation Dialogues</a>   <b>EACL 21</b>
 
 
-### Poster Session + Lunch Break (12:00-14:00 CET)
+### <a href="https://github.com/scai-conf/scai-conf.github.io/tree/main/posters">Poster Session</a> + Lunch Break (12:00-14:00 CET)
 
 
 ### Dialogue Personalization Session (14:00-14:50 CET)
