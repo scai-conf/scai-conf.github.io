@@ -38,11 +38,13 @@ header:
 
 ### Dialogue Personalization Session (14:00-14:50 CET)
 
-* Lucie Flek (University of Marburg)   <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-83527-9_1.pdf">Towards User-Centric Text-to-Text Generation: A Survey</a>   <b>TSD 21</b>
-
-* Cataldo Musto (University of Bari)   <a href="https://dl.acm.org/doi/fullHtml/10.1145/3447679">MyrrorBot: A Digital Assistant Based on Holistic User Models for Personalized Access to Online Services</a>   <b>TOIS 21</b>
-
 * Sergey Volokhin (Emory University)   <a href="https://aclanthology.org/2021.naacl-main.246.pdf">You Sound Like Someone Who Watches Drama Movies: Towards Predicting Movie Preferences from Conversational Interactions</a>   <b>NAACL 21</b>
+
+* Andrew Yates (University of Amsterdam)   <a href="https://arxiv.org/pdf/2109.04716.pdf">You Get What You Chat: Using Conversations to Personalize Search-Based Recommendations</a>   <b>ECIR 21</b>
+
+* Marco Polignano (University of Bari)   <a href="https://dl.acm.org/doi/fullHtml/10.1145/3447679">MyrrorBot: A Digital Assistant Based on Holistic User Models for Personalized Access to Online Services</a>   <b>TOIS 21</b>
+
+* Lucie Flek (University of Marburg)   <a href="https://link.springer.com/content/pdf/10.1007%2F978-3-030-83527-9_1.pdf">Towards User-Centric Text-to-Text Generation: A Survey</a>   <b>TSD 21</b>
 
 
 ### Question Answering Evaluation Session (15:00-15:50 CET)
