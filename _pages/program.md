@@ -15,13 +15,13 @@ header:
 
 ### Conversational Search Evaluation Session (10:00-10:50 CET)
 
+* Zeyang Liu (University of Nottingham)   <a href="https://arxiv.org/pdf/2104.13453.pdf">Meta-evaluation of Conversational Search Evaluation Metrics</a>   <b>TOIS 21</b>
+
 * Aldo Lipani (University College London)   <a href="https://discovery.ucl.ac.uk/id/eprint/10125575/1/How_Am_I_Doing-Evaluating_Conversational_Search_Systems_Offline.pdf">How Am I Doing?: Evaluating Conversational Search Systems Offline</a>   <b>TOIS 21</b>
 
 * Alexandre Salle (Federal University of Rio Grande do Sul)   <a href="https://scholar.harvard.edu/files/malmasi/files/salleetal-ecir2021-cosearcher.pdf">Studying the Effectiveness of Conversational Search Refinement through User Simulation</a>   <b>ECIR 21</b>
 
 * Hsien-Chin Lin (Heinrich-Heine-Universitat Dusseldorf)   <a href="https://aclanthology.org/2021.sigdial-1.47.pdf">Domain-independent User Simulation with Transformers for Task-oriented Dialogue Systems</a>   <b>SigDial 21</b>
-
-* Zeyang Liu (University of Nottingham)   <a href="https://arxiv.org/pdf/2104.13453.pdf">Meta-evaluation of Conversational Search Evaluation Metrics</a>   <b>TOIS 21</b>
 
 
 ### User Satisfaction & Dialogue Breakdown Session (11:00-11:50 CET)
@@ -54,6 +54,8 @@ header:
 * Linqing Liu (University College London)   <a href="https://arxiv.org/pdf/2109.01156.pdf">Challenges in Generalization in Open Domain Question Answering</a>
 
 * Jifan Chen (University of Texas at Austin)   <a href="https://arxiv.org/pdf/2104.08731.pdf">Can NLI Models Verify QA Systems’ Predictions?</a>   <b>EMNLP 21</b>
+
+* Vaibhav Adlakha (McGill University)   <a href="https://arxiv.org/pdf/2110.00768.pdf">TopiOCQA: Open-domain Conversational Question Answering with Topic Switching</a>
 
 
 ### SCAI-QReCC Shared Task on Conversational QA (16:00-17:00 CET)
