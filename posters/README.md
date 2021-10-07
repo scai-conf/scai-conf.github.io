@@ -8,7 +8,9 @@
 * Abhishek Kaushik    [A Conceptual Framework for Implicit Evaluation of Conversational Search Interfaces](https://micros2021.github.io/pubs/Kaushik_MICROS2021.pdf)  MICROS 21
 * Gustavo Penha   [On the Calibration and Uncertainty of Neural Learning to Rank Models for Conversational Search](https://aclanthology.org/2021.eacl-main.12.pdf)  EACL 21
 * Vahid Sadiri Javadi [Generating Opinionated Sales Negotiations](https://caisa-lab.github.io/members/vahid-javadi.html)
+* Alexandros Papangelis [Generative Conversational Networks](https://aclanthology.org/2021.sigdial-1.12.pdf)  SIGdial 21
 * Christian Geishauser    [What Does The User Want? Information Gain for Hierarchical Dialogue Policy Optimization](https://arxiv.org/pdf/2109.07129.pdf) ASRU 21
+* Vojtech Hudecek [Discovering Dialogue Slots with Weak Supervision](https://aclanthology.org/2021.acl-long.189.pdf)  ACL 21
 
 
 #### QA
@@ -18,3 +20,4 @@
 * Rishiraj Saha Roy   [UNIQORN: Unified Question Answering over RDF Knowledge Graphs and Natural Language Text](https://arxiv.org/pdf/2108.08614.pdf) arXiv 21
 * Magdalena Kaiser    [Reinforcement Learning from Reformulations in Conversational Question Answering over Knowledge Graphs](https://arxiv.org/pdf/2105.04850.pdf)   SIGIR 21
 * Zhen Jia    [Complex Temporal Question Answering on Knowledge Graphs](https://arxiv.org/pdf/2109.08935.pdf) CIKM 21
+* Farnaz Ghassemi    [Zero-Shot Clinical Questionnaire Filling From Human-Machine Interactions](http://www.aliae.io) MRQA 21
