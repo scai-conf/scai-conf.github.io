@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/images/bc.png
 ---
 
-### Opening (09:45-10:00 CET)
+### Opening (09:40-09:50 CET)
 
 
 ### Conversational Search Evaluation Session (10:00-10:50 CET)
