@@ -58,4 +58,4 @@ header:
 * Vaibhav Adlakha (McGill University)   <a href="https://arxiv.org/pdf/2110.00768.pdf">TopiOCQA: Open-domain Conversational Question Answering with Topic Switching</a>
 
 
-### SCAI-QReCC Shared Task on Conversational QA (16:00-17:00 CET)
+### SCAI-QReCC Shared Task on Conversational QA (16:00-16:50 CET)
