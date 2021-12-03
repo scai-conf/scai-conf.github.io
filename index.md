@@ -12,6 +12,7 @@ header:
 
 
 <!-- ### Workshop overview: -->
+"<a href="https://www.youtube.com/playlist?list=PLo1zgVC8zqnwjHnRM06MPjFwO20T9cjbj">See the recordings of SCAI'21 on YouTube!</a>"
 
 This workshop is intended as a **discussion platform on Conversational AI for intelligent information access**, bringing together researchers and practitioners across natural language processing, information retrieval, machine learning and human-computer interaction fields. Among other topics, we will discuss design, evaluation and human factors in relation to automating information-seeking dialogues. The workshop will also feature a shared task on Conversational Question Answering.
 

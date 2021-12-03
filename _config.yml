@@ -129,7 +129,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/playlist?list=PLo1zgVC8zqnwjHnRM06MPjFwO20T9cjbj"
+  youtube          : #"https://www.youtube.com/playlist?list=PLo1zgVC8zqnwjHnRM06MPjFwO20T9cjbj"
 
 
 # Reading Files
@@ -207,7 +207,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -216,7 +215,6 @@ whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
