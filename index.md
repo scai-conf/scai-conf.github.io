@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "Online Event<br />8 October 2021"
+excerpt: "Workshop at SIGIR 2022<br />July 11-15, Madrid"
 layout: single
 classes: wide
 header:
@@ -10,19 +10,11 @@ header:
   overlay_image: /assets/images/bc.png
 ---
 
-
-<a href="https://www.youtube.com/playlist?list=PLo1zgVC8zqnwjHnRM06MPjFwO20T9cjbj">Check out the recordings of SCAI'21 on our YouTube channel</a>
-
 This workshop is intended as a **discussion platform on Conversational AI for intelligent information access**, bringing together researchers and practitioners across natural language processing, information retrieval, machine learning and human-computer interaction fields. Among other topics, we will discuss design, evaluation and human factors in relation to automating information-seeking dialogues. The workshop will also feature a shared task on Conversational Question Answering.
 
-SCAI is already an established venue with a long-standing tradition of building bridges and integrating expertise from diverse research communities. It was previously organised in the context of ICTIR 2017, EMNLP 2018, TheWebConf 2019, IJCAI 2019 and EMNLP 2020. To access the materials of the previous five editions of SCAI navigate to <https://scai-workshop.github.io>
+SCAI 2022 is a 7th iteration of SCAI. This year, the workshop will focus on the discussion between researchers from different fields. It is therefore organized as a strictly non-archival venue, as an opportunity to present papers accepted to other venues in an interdisciplinary meeting specifically focused on search-based conversational AI. SCAI 2022 will be a workshop at [SIGIR 2022](https://sigir.org/sigir2022/)
 
-While this is a 6th iteration of SCAI, this year, the workshop will focus on the discussion between researchers from different fields. It is therefore organized as a strictly non-archival venue, as an opportunity to present papers accepted to other venues in an interdisciplinary meeting specifically focused on search-based conversational AI.
-
-The workshop is organized as an online event, with free participation.
-
-
-[Register now!](https://www.eventbrite.com/e/scai21-tickets-167871384831)
+SCAI is already an established venue with a long-standing tradition of building bridges and integrating expertise from diverse research communities. It was previously organised in the context of ICTIR 2017, EMNLP 2018, TheWebConf 2019, IJCAI 2019 and EMNLP 2020, and as a separate online event in 2021. You can find materials from [SCAI 2021](2021/) on a separate page, the materials from 2016-2022 are at <https://scai-workshop.github.io>.
 
 
 ### Submission
@@ -31,49 +23,16 @@ We invite presentations of papers that were previously accepted to conferences o
 
 The submission involves either a link to the published paper version, or a PDF if the paper isn’t online yet or is not open-access. The workshop organizers will select papers for presentation mainly based on their relevance to the workshop topic.
 
+Submission dates & link are coming soon.
 
-### Present Your Work:
-
-To present your published/accepted or an on-going project [fill out this form!](https://forms.gle/CSCch2FBRT9V84gA8) 
-
-
-### Important Dates:
-
-* Application deadline: September 28, 2021
-* Poster deadline: October 1, 2021
-* Workshop: October 8, 2021
 
 ### Organisers:
 
-* Leigh Clark, Swansea University
+* Svitlana Vakulenko, Amazon Alexa AI
 * Ondrej Dusek, Charles University
-* Svitlana Vakulenko, University of Amsterdam
+* Leigh Clark, Swansea University
+* Gustavo Penha, Delft University of Technology
+* Vaishali Pal, University of Amsterdam
+* Vaibhav Adlakha, Mila, McGill University
 
-### Shared Task Organisers:
 
-* Maik Fröbe, Martin Luther University of Halle-Wittenberg
-* Johannes Kiesel, Bauhaus-Universität Weimar
-* Svitlana Vakulenko, University of Amsterdam
-
-### Steering Committee:
-
-* Mikhail Burtsev,  MIPT & DeepPavlov
-* Heloisa Candello, IBM Research
-* Aleksandr Chuklin, Google Research
-* Milica Gasic, Heinrich-Heine-Universität Düsseldorf
-* Evangelos Kanoulas, University of Amsterdam
-* Julia Kiseleva, Microsoft Research
-* Ahmet Baki Kocaballi, University of Technology Sydney
-* Minha Lee, Eindhoven University of Technology
-* Martin Porcheron, Swansea University
-* Verena Rieser, Heriot-Watt University & ALANA AI
-* Stefan Ultes, Mercedes-Benz Research
-* Marilyn Walker, University of California Santa Cruz
-
-### Sponsors:
-
-<img src="/assets/images/bloomberg.png" alt="Bloomberg" width="500"/>
-<br />
-<img src="/assets/images/google.png" alt="Google" width="500"/>
-<br />
-<img src="/assets/images/huggingface.png" alt="HuggingFace" width="300"/>
