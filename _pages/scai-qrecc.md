@@ -1,6 +1,6 @@
 ---
-title: "SCAI QReCC Shared Task"
-permalink: /scai-qrecc/
+title: "SCAI QReCC Shared Task 2021"
+permalink: /scai-qrecc-2021/
 layout: single
 classes: wide
 header:
