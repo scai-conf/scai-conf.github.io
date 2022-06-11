@@ -18,7 +18,7 @@ The challenge is based on the <a href="https://arxiv.org/abs/2010.04898">QReCC d
 
 ### Leaderboard
 
-The challenge is hosted on <a href="https://www.tira.io/task/scai-qrecc">TIRA</a>. Participants can upload their submission as a single JSON file. Alternatively, participants can upload their code and run the evaluation on the VMs provided by the platform to ensure reproducibility of the results. See our <a href="https://github.com/scai-conf/SCAI-QReCC-21">GitHub repository</a> for further instructions and a sample code used for the baseline submission.
+The challenge is hosted on <a href="https://www.tira.io/task/scai-qrecc">TIRA</a>. Participants can upload their submission as a single JSON file. Alternatively, participants can upload their code and run the evaluation on the VMs provided by the platform to ensure reproducibility of the results. See our <a href="https://github.com/webis-de/SCAI-QReCC">GitHub repository</a> for further instructions and a sample code used for the baseline submission.
 
 The evaluation is performed on the test split of the QReCC dataset. We use the ground truth annotations in the initial phase, and will update them with alternative answer spans and passages by pooling and crowdsourcing the relevance judgements over the results submitted by the challenge participants (similar to the TREC evaluation setup).
 
