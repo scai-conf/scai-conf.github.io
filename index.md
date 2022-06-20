@@ -47,4 +47,8 @@ The submission involves either a link to the published paper version, or a PDF i
 * Vaishali Pal, University of Amsterdam
 * Vaibhav Adlakha, Mila, McGill University
 
+### Sponsors:
+
+<img src="/assets/images/bloomberg.png" alt="Bloomberg" width="500"/>
+<br />
 
