@@ -49,6 +49,6 @@ The submission involves either a link to the published paper version, or a PDF i
 
 ### Sponsors:
 
-<img src="/assets/images/bloomberg.png" alt="Bloomberg" width="500"/>
+<a href="https://www.bloomberg.com/"><img src="/assets/images/bloomberg.png" alt="Bloomberg" width="500"/></a>
 <br />
 
