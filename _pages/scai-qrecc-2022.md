@@ -24,7 +24,7 @@ The evaluation is performed on the test split of the QReCC dataset. We use the g
 
 ### Schedule
 
-* Submission deadline: July 3, 2022
+* Submission deadline: <s>July 3, 2022</s> <b>Extended:</b> July 8, 2022
 * Results announcement: July 10, 2022
 * Workshop presentations: July 15, 2022
 
