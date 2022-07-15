@@ -30,7 +30,7 @@ SCAI is already an established venue with a long-standing tradition of building 
 * Abhisek Dash (Indian Institute of Technology Kharagpur): [Alexa, in you, I trust! Fairness and Interpretability Issues in E-commerce Search through Smart Speakers](https://arxiv.org/abs/2202.03934) **WebConf 2022**
 * Andrea Papenmeier (GESIS - Leibniz-Institute for the Social Sciences): [Mhm... ' - Conversational Strategies For Product Search Assistants](https://doi.org/10.1145/3498366.3505809) **CHIIR 2022**
 * Alexander Frummet (University of Regensburg): [What can I cook with these ingredients?' - Understanding cooking-related information needs in conversational search](https://arxiv.org/abs/2112.04788) **TOIS 2022**
-* Ramesh Manuvina (Intel Labs): [Human in the loop approaches in conversational task guidance system](https://drive.google.com/file/d/1W2AVCdIFAf2rwugZquDFJ6-kTcyX_mFS/view?usp=sharing) **preprint 2022**
+* Ramesh Manuvinakurike (Intel Labs): [Human in the loop approaches in conversational task guidance system](https://drive.google.com/file/d/1W2AVCdIFAf2rwugZquDFJ6-kTcyX_mFS/view?usp=sharing) **preprint 2022**
 
  
 #### Session 3: Question Answering (13:30-15:00 CEST)
@@ -44,8 +44,8 @@ SCAI is already an established venue with a long-standing tradition of building 
 
 * Sandeep Avula (Amazon): [The Effects of System Initiative during Conversational Collaborative Search](https://arxiv.org/abs/2202.09728) **CSCW 2022**
 * Alexander Bondarenko (Martin-Luther-Universität Halle-Wittenberg): [A User Study on Clarifying Comparative Questions](https://doi.org/10.1145/3498366.3505832) **CHIIR 2022**
-* Zhenduo Wang (University of Utah): [Controlling the Risk of Conversational Search via Reinforcement Learning](https://doi.org/10.1145/3442381.3449893) **WebConf 2021**
 * Ivan Sekulić (Università della Svizzera italiana Lugano): [Evaluating Mixed-initiative Conversational Search Systems via User Simulation](https://arxiv.org/abs/2204.08046) **WSDM 2022**
+* Zhenduo Wang (University of Utah): [Controlling the Risk of Conversational Search via Reinforcement Learning](https://doi.org/10.1145/3442381.3449893) **WebConf 2021**
  
 
 <!--
