@@ -1,5 +1,5 @@
 ---
-title: "SCAI 2022"
+title: "SCAI: Search-Oriented Conversational AI"
 layout: splash
 permalink: /
 excerpt: "Workshop at SIGIR 2022<br />July 15, Madrid/Online"
