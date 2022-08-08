@@ -18,7 +18,8 @@ SCAI is already an established venue with a long-standing tradition of building 
 
 ### SCAI 2022 Program
 
-#### Session 1: Evaluation (9:00-10:30 CEST)
+#### Session 1: Evaluation (9:00-10:30 CEST) [Video](https://www.youtube.com/watch?v=bBkPByrt3Cg)
+
 
 * Jing Wei (University of Melbourne): [What Could Possibly Go Wrong When Interacting with Proactive Smart Speakers? A Case Study Using an ESM Application](https://doi.org/10.1145/3491102.3517432) **CHI 2022**
 * Guglielmo Faggioli (University of Padova): [A Dependency-Aware Utterances Permutation Strategy to Improve Conversational Evaluation](https://doi.org/10.1007/978-3-030-99736-6_13) **ECIR 2022**
