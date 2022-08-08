@@ -1,4 +1,5 @@
 ---
+title: "SCAI 2022"
 layout: splash
 permalink: /
 excerpt: "Workshop at SIGIR 2022<br />July 15, Madrid/Online"
