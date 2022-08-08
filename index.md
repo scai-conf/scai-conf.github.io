@@ -10,8 +10,11 @@ header:
   overlay_image: /assets/images/bc.png
 ---
 
-**Video recordings of all sessions are now available (see links below in the [Program section](#scai-2022-program)).**
+### News
 
+* 8/8/2022: **Video recordings** of all sessions are now available (see links below in the [Program section](#scai-2022-program)).
+
+### SCAI 2022
 
 This workshop is intended as a **discussion platform on Conversational AI for intelligent information access**, bringing together researchers and practitioners across natural language processing, information retrieval, machine learning and human-computer interaction fields. Among other topics, we will discuss design, evaluation and human factors in relation to automating information-seeking dialogues. The workshop will also feature a shared task on Conversational Question Answering.
 
