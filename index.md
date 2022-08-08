@@ -12,7 +12,7 @@ header:
 
 ### News
 
-* 8/8/2022: **Video recordings** of all sessions are now available (see links below in the [Program section](#scai-2022-program)).
+* 8/8/2022: **Video recordings** of all sessions are now available ([see below](#scai-2022-program)).
 
 ### SCAI 2022
 
